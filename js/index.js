@@ -50,7 +50,9 @@ function add(num1, num2) {
   => null
 */
 function halve(number) {
-  if (typeof number !== "number") return null;
+  if (typeof number !== "number") 
+  
+  return null;
 
   return number / 2;
 }
